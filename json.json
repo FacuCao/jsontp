@@ -1,0 +1,26 @@
+{
+    "dino":{
+        "producto":"dinosaurio",
+        "altura":"30cm",
+        "imagen":"imagenes/dino.jpeg"
+     },
+
+    "escudo":{
+        "producto":"escudo",
+        "altura":"20cm",
+        "imagen":"imagenes/escudo.jpeg"
+
+    },
+
+    "SnoopDog":{
+        "producto":"Snoop",
+        "altura":"15cm",
+        "imagen":"imagenes/snoop.jpeg"
+    },
+
+    "yoda":{
+        "producto":"JediYoda",
+        "altura":"25cm",
+        "imagen":"imagenes/yoda.jpeg"
+    }
+}
